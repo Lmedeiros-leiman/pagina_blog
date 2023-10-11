@@ -1,0 +1,14 @@
+F:\xampp\htdocs\Projetos PHPstorm\test\bin\Debug\net7.0\test.exe
+F:\xampp\htdocs\Projetos PHPstorm\test\bin\Debug\net7.0\test.deps.json
+F:\xampp\htdocs\Projetos PHPstorm\test\bin\Debug\net7.0\test.runtimeconfig.json
+F:\xampp\htdocs\Projetos PHPstorm\test\bin\Debug\net7.0\test.dll
+F:\xampp\htdocs\Projetos PHPstorm\test\bin\Debug\net7.0\test.pdb
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.dll
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\refint\test.dll
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.pdb
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+F:\xampp\htdocs\Projetos PHPstorm\test\obj\Debug\net7.0\ref\test.dll
